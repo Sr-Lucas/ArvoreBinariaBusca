@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1298926308 source:c:\temp fagoc\2011-1\ed2\3p\arvorebinariabusca\main.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1298925966 c:\temp fagoc\2011-1\ed2\3p\arvorebinariabusca\tipoarvore.h
+
+1298926578 source:c:\temp fagoc\2011-1\ed2\3p\arvorebinariabusca\tipoarvore.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1320094151 source:c:\temp fagoc\2011-1\ed2\arvorebinariabusca\main.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1301950168 c:\temp fagoc\2011-1\ed2\arvorebinariabusca\tipoarvore.h
+
+1320094198 source:c:\temp fagoc\2011-1\ed2\arvorebinariabusca\tipoarvore.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1320094151 source:c:\temp fagoc\2012-1\ed2\arvorebinariabusca\main.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1331059031 c:\temp fagoc\2012-1\ed2\arvorebinariabusca\tipoarvore.h
+
+1331059031 source:c:\temp fagoc\2012-1\ed2\arvorebinariabusca\tipoarvore.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1320090551 source:c:\temp fagoc\2013-1\ed2\arvorebinariabuscacomremocao\arvorebinariabusca\main.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1331055431 c:\temp fagoc\2013-1\ed2\arvorebinariabuscacomremocao\arvorebinariabusca\tipoarvore.h
+
+1393188477 source:c:\temp fagoc\2014-1\ed2\arvorebinariabuscacomremocao\arvorebinariabusca\main.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1331055431 c:\temp fagoc\2014-1\ed2\arvorebinariabuscacomremocao\arvorebinariabusca\tipoarvore.h
+
+1363802458 source:c:\temp fagoc\2014-1\ed2\arvorebinariabuscacomremocao\arvorebinariabusca\tipoarvore.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1393188478 source:c:\fagoc\2016-1\ed2\arvorebinariabuscacomremocao\arvorebinariabusca\main.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1331055432 c:\fagoc\2016-1\ed2\arvorebinariabuscacomremocao\arvorebinariabusca\tipoarvore.h
+
+1363802460 source:c:\fagoc\2016-1\ed2\arvorebinariabuscacomremocao\arvorebinariabusca\tipoarvore.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1393188478 source:c:\fagoc\2019-1\ed2\arvorebinariabuscacomremocao\arvorebinariabusca\main.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1331055432 c:\fagoc\2019-1\ed2\arvorebinariabuscacomremocao\arvorebinariabusca\tipoarvore.h
+
+1363802460 source:c:\fagoc\2019-1\ed2\arvorebinariabuscacomremocao\arvorebinariabusca\tipoarvore.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1569092855 source:c:\murilo\fagoc\2019-2\algoritmos e estruturas de dados\3 ed\arvorebinariabusca\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"ArvoreBinariaBusca.h"
+
+1331055432 c:\murilo\fagoc\2019-2\algoritmos e estruturas de dados\3 ed\arvorebinariabusca\tipoarvore.h
+
+1363802460 source:c:\murilo\fagoc\2019-2\algoritmos e estruturas de dados\3 ed\arvorebinariabusca\tipoarvore.cpp
+	<iostream>
+	"TipoArvore.h"
+
+1569262794 source:c:\murilo\fagoc\2019-2\algoritmos e estruturas de dados\3 ed\arvorebinariabusca\arvorebinariabusca.cpp
+	<iostream>
+	"ArvoreBinariaBusca.h"
+
+1569262724 c:\murilo\fagoc\2019-2\algoritmos e estruturas de dados\3 ed\arvorebinariabusca\arvorebinariabusca.h
+
+1569262796 source:f:\roms\roms hack\snk\arvorebinariabusca\arvorebinariabusca.cpp
+	<iostream>
+	"ArvoreBinariaBusca.h"
+
+1569722632 f:\roms\roms hack\snk\arvorebinariabusca\arvorebinariabusca.h
+
+1569092856 source:f:\roms\roms hack\snk\arvorebinariabusca\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"ArvoreBinariaBusca.h"
+
+1570321543 source:c:\users\lukin\desktop\arvorebinariabusca\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"ArvoreBinariaBusca.h"
+
+1570323771 c:\users\lukin\desktop\arvorebinariabusca\arvorebinariabusca.h
+
+1570320758 source:c:\users\lukin\desktop\arvorebinariabusca\fila.cpp
+	<iostream>
+	<stdlib.h>
+	"Fila.h"
+
+1570320768 c:\users\lukin\desktop\arvorebinariabusca\fila.h
+	"ArvoreBinariaBusca.h"
+
+1570321370 source:c:\users\lukin\desktop\arvorebinariabusca\arvorebinariabusca.cpp
+	<iostream>
+	"ArvoreBinariaBusca.h"
+	"Fila.h"
+
+1570320758 source:c:\users\lukin\desktop\tp-4\fila.cpp
+	<iostream>
+	<stdlib.h>
+	"Fila.h"
+
+1570320768 c:\users\lukin\desktop\tp-4\fila.h
+	"ArvoreBinariaBusca.h"
+
+1570377132 c:\users\lukin\desktop\tp-4\arvorebinariabusca.h
+
+1570381034 source:c:\users\lukin\desktop\tp-4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"ArvoreBinariaBusca.h"
+
+1570381213 source:c:\users\lukin\desktop\tp-4\arvorebinariabusca.cpp
+	<iostream>
+	"ArvoreBinariaBusca.h"
+	"Fila.h"
+
